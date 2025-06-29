@@ -48,5 +48,7 @@ A sample file (`students.csv`) is included for reference.
 
 DASHBOARD
 ![image](https://github.com/user-attachments/assets/f3679c83-0854-403a-a942-e014463936a7)
+![image](https://github.com/user-attachments/assets/0393c2a6-7032-4bd5-8951-eff3622ec9a5)
+
 
 
